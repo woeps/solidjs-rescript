@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18a91c54-7396-479e-ae04-1c5bdca71861/deploy-status)](https://app.netlify.com/sites/solidjs-rescript/deploys)
+
 ## NOTE
 This repository contains **experimental** code to enable the usage of [SolidJs](solidjs.com) with the [rescript](rescript-lang.org) language.
 
