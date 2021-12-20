@@ -1,0 +1,20 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite & rescript build -w",
+    "bundle": "rescript build && vite build",
+    "serve": "vite preview",
+    "build": "rescript"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "rescript": "*",
+    "vite": "^2.7.3",
+    "vite-plugin-solid": "^2.1.4"
+  },
+  "dependencies": {
+    "solid-js": "^1.2.6"
+  }
+}
